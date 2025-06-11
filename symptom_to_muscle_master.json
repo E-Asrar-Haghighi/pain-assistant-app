@@ -1,0 +1,1469 @@
+{
+  "Abdomen: Pain in the upper or middle abdomen": {
+    "explanation": "A symptom related to 'Abdomen' described as 'Pain in the upper or middle abdomen'.",
+    "muscles": [
+      "Rectus Abdominis",
+      "Paraspinals (deep)"
+    ],
+    "chapters": [
+      7,
+      6
+    ]
+  },
+  "Abdomen: Pain in the lower abdomen": {
+    "explanation": "A symptom related to 'Abdomen' described as 'Pain in the lower abdomen'.",
+    "muscles": [
+      "Rectus Abdominis",
+      "Quadratus Lumborum",
+      "Paraspinals",
+      "Pelvic Floor Muscles"
+    ],
+    "chapters": [
+      7,
+      8,
+      6,
+      15
+    ]
+  },
+  "Abdomen: Cramping in the abdomen": {
+    "explanation": "A symptom related to 'Abdomen' described as 'Cramping in the abdomen'.",
+    "muscles": [
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      7
+    ]
+  },
+  "Abdomen: Sagging abdominal muscles": {
+    "explanation": "A symptom related to 'Abdomen' described as 'Sagging abdominal muscles'.",
+    "muscles": [
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      7
+    ]
+  },
+  "Achilles tendonitis and pseudo-Achilles tendonitis: Posterior ankle and heel pain": {
+    "explanation": "A symptom related to 'Achilles tendonitis and pseudo-Achilles tendonitis' described as 'Posterior ankle and heel pain'.",
+    "muscles": [
+      "Soleus"
+    ],
+    "chapters": [
+      14
+    ]
+  },
+  "Ankles: Limited range of motion": {
+    "explanation": "A symptom related to 'Ankles' described as 'Limited range of motion'.",
+    "muscles": [
+      "Soleus"
+    ],
+    "chapters": [
+      14
+    ]
+  },
+  "Ankles: Swelling": {
+    "explanation": "A symptom related to 'Ankles' described as 'Swelling'.",
+    "muscles": [
+      "Soleus"
+    ],
+    "chapters": [
+      14
+    ]
+  },
+  "Asymmetry, standing: Postural asymmetry": {
+    "explanation": "A symptom related to 'Asymmetry, standing' described as 'Postural asymmetry'.",
+    "muscles": [
+      "Iliopsoas",
+      "Quadratus Lumborum",
+      "Paraspinals",
+      "Rectus Abdominis",
+      "Gluteus Medius",
+      "Gluteus Minimus"
+    ],
+    "chapters": [
+      5,
+      8,
+      6,
+      7,
+      10,
+      10
+    ]
+  },
+  "Back pain: Pain across the low back": {
+    "explanation": "A symptom related to 'Back pain' described as 'Pain across the low back'.",
+    "muscles": [
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      7
+    ]
+  },
+  "Back pain: Pain up and down next to the spine": {
+    "explanation": "A symptom related to 'Back pain' described as 'Pain up and down next to the spine'.",
+    "muscles": [
+      "Iliopsoas",
+      "Paraspinals"
+    ],
+    "chapters": [
+      5,
+      6
+    ]
+  },
+  "Back pain: Severe aching 'bone pain' at any level of the spine": {
+    "explanation": "A symptom related to 'Back pain' described as 'Severe aching 'bone pain' at any level of the spine'.",
+    "muscles": [
+      "Paraspinals (deep)"
+    ],
+    "chapters": [
+      6
+    ]
+  },
+  "Back pain: Can't hold back straight, slouched-forward posture (kyphosis)": {
+    "explanation": "A symptom related to 'Back pain' described as 'Can't hold back straight, slouched-forward posture (kyphosis)'.",
+    "muscles": [
+      "Paraspinals",
+      "Iliopsoas",
+      "Rectus Abdominis",
+      "Gluteus Medius",
+      "Gluteus Minimus"
+    ],
+    "chapters": [
+      6,
+      5,
+      7,
+      10,
+      10
+    ]
+  },
+  "Breathing: Increased back pain with deep breathing": {
+    "explanation": "A symptom related to 'Breathing' described as 'Increased back pain with deep breathing'.",
+    "muscles": [
+      "Rectus Abdominis",
+      "Paraspinals"
+    ],
+    "chapters": [
+      7,
+      6
+    ]
+  },
+  "Breathing: Paradoxical breathing (contracting the abdominal muscles during normal inhaling)": {
+    "explanation": "A symptom related to 'Breathing' described as 'Paradoxical breathing (contracting the abdominal muscles during normal inhaling)'.",
+    "muscles": [
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      7
+    ]
+  },
+  "Buttocks: Any pain in the buttocks": {
+    "explanation": "A symptom related to 'Buttocks' described as 'Any pain in the buttocks'.",
+    "muscles": [
+      "Quadratus Lumborum",
+      "Gluteus Maximus",
+      "Gluteus Medius",
+      "Gluteus Minimus",
+      "Piriformis",
+      "Paraspinals",
+      "Hamstrings",
+      "Soleus",
+      "Pelvic Floor Muscles"
+    ],
+    "chapters": [
+      8,
+      9,
+      10,
+      10,
+      11,
+      6,
+      13,
+      14,
+      15
+    ]
+  },
+  "Buttocks: Pain that extends to the lower leg and calf": {
+    "explanation": "A symptom related to 'Buttocks' described as 'Pain that extends to the lower leg and calf'.",
+    "muscles": [
+      "Gluteus Minimus"
+    ],
+    "chapters": [
+      10
+    ]
+  },
+  "Buttocks: Pain in the center of the buttocks and around the sacrum": {
+    "explanation": "A symptom related to 'Buttocks' described as 'Pain in the center of the buttocks and around the sacrum'.",
+    "muscles": [
+      "Gluteus Medius",
+      "Gluteus Maximus",
+      "Piriformis"
+    ],
+    "chapters": [
+      10,
+      9,
+      11
+    ]
+  },
+  "Buttocks: Aching deep in the buttocks": {
+    "explanation": "A symptom related to 'Buttocks' described as 'Aching deep in the buttocks'.",
+    "muscles": [
+      "Gluteus Maximus",
+      "Paraspinals",
+      "Quadratus Lumborum",
+      "Gluteus Medius",
+      "Piriformis",
+      "Rectus Abdominis",
+      "Soleus",
+      "Pelvic Floor Muscles"
+    ],
+    "chapters": [
+      9,
+      6,
+      8,
+      10,
+      11,
+      7,
+      14,
+      15
+    ]
+  },
+  "Car or chair: Difficulty getting in or out of a car or chair": {
+    "explanation": "A symptom related to 'Car or chair' described as 'Difficulty getting in or out of a car or chair'.",
+    "muscles": [
+      "Iliopsoas",
+      "Rectus Abdominis",
+      "Paraspinals",
+      "Gluteus Minimus",
+      "Gluteus Maximus",
+      "Quadratus Lumborum",
+      "Hamstrings"
+    ],
+    "chapters": [
+      5,
+      7,
+      6,
+      10,
+      9,
+      8,
+      13
+    ]
+  },
+  "Car or chair: Can't seem to find a comfortable seated position": {
+    "explanation": "A symptom related to 'Car or chair' described as 'Can't seem to find a comfortable seated position'.",
+    "muscles": [
+      "Gluteus Maximus"
+    ],
+    "chapters": [
+      9
+    ]
+  },
+  "Coughing: Extreme pain while coughing": {
+    "explanation": "A symptom related to 'Coughing' described as 'Extreme pain while coughing'.",
+    "muscles": [
+      "Quadratus Lumborum",
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      8,
+      7
+    ]
+  },
+  "Feet: Swelling": {
+    "explanation": "A symptom related to 'Feet' described as 'Swelling'.",
+    "muscles": [
+      "Soleus"
+    ],
+    "chapters": [
+      14
+    ]
+  },
+  "Feet: Turning out of feet (laterally rotating at hip)": {
+    "explanation": "A symptom related to 'Feet' described as 'Turning out of feet (laterally rotating at hip)'.",
+    "muscles": [
+      "Gluteus Medius",
+      "Gluteus Minimus",
+      "Gluteus Maximus",
+      "Iliopsoas",
+      "Hamstrings"
+    ],
+    "chapters": [
+      10,
+      10,
+      9,
+      5,
+      13
+    ]
+  },
+  "Gastrointestinal disorders: Heartburn, nausea, vomiting, loss of appetite, bloating, indigestion, burning, swelling, and gas": {
+    "explanation": "A symptom related to 'Gastrointestinal disorders' described as 'Heartburn, nausea, vomiting, loss of appetite, bloating, indigestion, burning, swelling, and gas'.",
+    "muscles": [
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      7
+    ]
+  },
+  "Groin: Pain": {
+    "explanation": "A symptom related to 'Groin' described as 'Pain'.",
+    "muscles": [
+      "Quadratus Lumborum",
+      "Rectus Abdominis",
+      "Pelvic Floor Muscles",
+      "Iliopsoas"
+    ],
+    "chapters": [
+      8,
+      7,
+      15,
+      5
+    ]
+  },
+  "Growing pains: In children's legs": {
+    "explanation": "A symptom related to 'Growing pains' described as 'In children's legs'.",
+    "muscles": [
+      "Soleus",
+      "Hamstrings"
+    ],
+    "chapters": [
+      14,
+      13
+    ]
+  },
+  "Heels: Pain, soreness, or aching at night": {
+    "explanation": "A symptom related to 'Heels' described as 'Pain, soreness, or aching at night'.",
+    "muscles": [
+      "Soleus"
+    ],
+    "chapters": [
+      14
+    ]
+  },
+  "Hips: Pain that totally immobilizes the hips": {
+    "explanation": "A symptom related to 'Hips' described as 'Pain that totally immobilizes the hips'.",
+    "muscles": [
+      "Quadratus Lumborum"
+    ],
+    "chapters": [
+      8
+    ]
+  },
+  "Hips: Bursitis and pseudo-bursitis, severe pain or tenderness in and around the hip bone (the greater trochanter of the femur)": {
+    "explanation": "A symptom related to 'Hips' described as 'Bursitis and pseudo-bursitis, severe pain or tenderness in and around the hip bone (the greater trochanter of the femur)'.",
+    "muscles": [
+      "Quadratus Lumborum",
+      "Gluteus Medius",
+      "Gluteus Minimus"
+    ],
+    "chapters": [
+      8,
+      10,
+      10
+    ]
+  },
+  "Hips: Limited ability to flex the hips": {
+    "explanation": "A symptom related to 'Hips' described as 'Limited ability to flex the hips'.",
+    "muscles": [
+      "Iliopsoas",
+      "Gluteus Maximus",
+      "Gluteus Medius",
+      "Gluteus Minimus"
+    ],
+    "chapters": [
+      5,
+      9,
+      10,
+      10
+    ]
+  },
+  "Hips: Pain or inability to move thigh or leg backward (hip extension)": {
+    "explanation": "A symptom related to 'Hips' described as 'Pain or inability to move thigh or leg backward (hip extension)'.",
+    "muscles": [
+      "Gluteus Maximus",
+      "Hamstrings",
+      "Iliopsoas",
+      "Quadratus Lumborum",
+      "Paraspinals",
+      "Gluteus Minimus",
+      "Gluteus Medius"
+    ],
+    "chapters": [
+      9,
+      13,
+      5,
+      8,
+      6,
+      10,
+      10
+    ]
+  },
+  "Hips: Weakness in the hips": {
+    "explanation": "A symptom related to 'Hips' described as 'Weakness in the hips'.",
+    "muscles": [
+      "Gluteus Medius",
+      "Gluteus Minimus"
+    ],
+    "chapters": [
+      10,
+      10
+    ]
+  },
+  "Irritable bowel syndrome: Constipation, abdominal pain, or diarrhea": {
+    "explanation": "A symptom related to 'Irritable bowel syndrome' described as 'Constipation, abdominal pain, or diarrhea'.",
+    "muscles": [
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      7
+    ]
+  },
+  "Knees: Pain in the back of the knee": {
+    "explanation": "A symptom related to 'Knees' described as 'Pain in the back of the knee'.",
+    "muscles": [
+      "Hamstrings"
+    ],
+    "chapters": [
+      13
+    ]
+  },
+  "Legs: Difficulty lifting a leg out to the side (hip abduction)": {
+    "explanation": "A symptom related to 'Legs' described as 'Difficulty lifting a leg out to the side (hip abduction)'.",
+    "muscles": [
+      "Gluteus Maximus",
+      "Gluteus Medius",
+      "Gluteus Minimus",
+      "Piriformis"
+    ],
+    "chapters": [
+      9,
+      10,
+      10,
+      11
+    ]
+  },
+  "Legs: Leg length inequality": {
+    "explanation": "A symptom related to 'Legs' described as 'Leg length inequality'.",
+    "muscles": [
+      "Iliopsoas",
+      "Quadratus Lumborum",
+      "Gluteus Medius",
+      "Gluteus Minimus"
+    ],
+    "chapters": [
+      5,
+      8,
+      10,
+      10
+    ]
+  },
+  "Legs: Limping": {
+    "explanation": "A symptom related to 'Legs' described as 'Limping'.",
+    "muscles": [
+      "Gluteus Minimus",
+      "Gluteus Medius",
+      "Soleus",
+      "Hamstrings"
+    ],
+    "chapters": [
+      10,
+      10,
+      14,
+      13
+    ]
+  },
+  "Legs: Restless legs syndrome (involuntary twitching of leg muscles, especially at night or while lying down)": {
+    "explanation": "A symptom related to 'Legs' described as 'Restless legs syndrome (involuntary twitching of leg muscles, especially at night or while lying down)'.",
+    "muscles": [
+      "Iliopsoas",
+      "Gluteal Muscles",
+      "Hamstrings",
+      "Paraspinals",
+      "Soleus"
+    ],
+    "chapters": [
+      5,
+      9,
+      13,
+      6,
+      14
+    ]
+  },
+  "Legs: Tingling in the legs and thighs": {
+    "explanation": "A symptom related to 'Legs' described as 'Tingling in the legs and thighs'.",
+    "muscles": [
+      "Piriformis"
+    ],
+    "chapters": [
+      11
+    ]
+  },
+  "Legs: Tingling in the thighs only": {
+    "explanation": "A symptom related to 'Legs' described as 'Tingling in the thighs only'.",
+    "muscles": [
+      "Iliopsoas"
+    ],
+    "chapters": [
+      5
+    ]
+  },
+  "Legs: Pain in the buttocks and down the thigh and leg (sciatica)": {
+    "explanation": "A symptom related to 'Legs' described as 'Pain in the buttocks and down the thigh and leg (sciatica)'.",
+    "muscles": [
+      "Gluteus Minimus",
+      "Hamstrings",
+      "Piriformis"
+    ],
+    "chapters": [
+      10,
+      13,
+      11
+    ]
+  },
+  "Lordosis: Excessive low back or lumbar curve (anterior tilt of pelvis)": {
+    "explanation": "A symptom related to 'Lordosis' described as 'Excessive low back or lumbar curve (anterior tilt of pelvis)'.",
+    "muscles": [
+      "Iliopsoas",
+      "Paraspinals",
+      "Quadratus Lumborum",
+      "Gluteus Medius",
+      "Gluteus Minimus"
+    ],
+    "chapters": [
+      5,
+      6,
+      8,
+      10,
+      10
+    ]
+  },
+  "Low back (lumbar region): Generalized pain in the lumbar region": {
+    "explanation": "A symptom related to 'Low back (lumbar region)' described as 'Generalized pain in the lumbar region'.",
+    "muscles": [
+      "Iliopsoas",
+      "Rectus Abdominis",
+      "Paraspinals",
+      "Gluteal Muscles"
+    ],
+    "chapters": [
+      5,
+      7,
+      6,
+      9
+    ]
+  },
+  "Low back (lumbar region): Lumbago (an older term for very low back pain in and around the sacrum)": {
+    "explanation": "A symptom related to 'Low back (lumbar region)' described as 'Lumbago (an older term for very low back pain in and around the sacrum)'.",
+    "muscles": [
+      "Gluteus Medius",
+      "Gluteus Maximus",
+      "Paraspinals",
+      "Quadratus Lumborum"
+    ],
+    "chapters": [
+      10,
+      9,
+      6,
+      8
+    ]
+  },
+  "Low back (lumbar region): Sharp pains that may make it impossible to stand or walk": {
+    "explanation": "A symptom related to 'Low back (lumbar region)' described as 'Sharp pains that may make it impossible to stand or walk'.",
+    "muscles": [
+      "Quadratus Lumborum",
+      "Paraspinals",
+      "Iliopsoas",
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      8,
+      6,
+      5,
+      7
+    ]
+  },
+  "Low back (lumbar region): Pain running across the low or mid back": {
+    "explanation": "A symptom related to 'Low back (lumbar region)' described as 'Pain running across the low or mid back'.",
+    "muscles": [
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      7
+    ]
+  },
+  "Low back (lumbar region): Pain running up and down the low back parallel to the spine": {
+    "explanation": "A symptom related to 'Low back (lumbar region)' described as 'Pain running up and down the low back parallel to the spine'.",
+    "muscles": [
+      "Iliopsoas"
+    ],
+    "chapters": [
+      5
+    ]
+  },
+  "Low back (lumbar region): Pseudo-osteoarthritis of lumbar or sacral regions of spine": {
+    "explanation": "A symptom related to 'Low back (lumbar region)' described as 'Pseudo-osteoarthritis of lumbar or sacral regions of spine'.",
+    "muscles": [
+      "Paraspinals",
+      "Quadratus Lumborum",
+      "Iliopsoas",
+      "Rectus Abdominis",
+      "Gluteal Muscles",
+      "Piriformis",
+      "Soleus"
+    ],
+    "chapters": [
+      6,
+      8,
+      5,
+      7,
+      9,
+      11,
+      14
+    ]
+  },
+  "Lying down: Pain while lying down or sleeping, barely able to turn over": {
+    "explanation": "A symptom related to 'Lying down' described as 'Pain while lying down or sleeping, barely able to turn over'.",
+    "muscles": [
+      "Quadratus Lumborum",
+      "Gluteus Minimus"
+    ],
+    "chapters": [
+      8,
+      10
+    ]
+  },
+  "Lying down: Buttocks pain after long bed rest with legs always bent": {
+    "explanation": "A symptom related to 'Lying down' described as 'Buttocks pain after long bed rest with legs always bent'.",
+    "muscles": [
+      "Hamstrings"
+    ],
+    "chapters": [
+      13
+    ]
+  },
+  "Lying down: Pain when sleeping on your side": {
+    "explanation": "A symptom related to 'Lying down' described as 'Pain when sleeping on your side'.",
+    "muscles": [
+      "Gluteus Medius",
+      "Gluteus Maximus",
+      "Gluteus Minimus",
+      "Piriformis",
+      "Quadratus Lumborum",
+      "Hamstrings"
+    ],
+    "chapters": [
+      10,
+      9,
+      10,
+      11,
+      8,
+      13
+    ]
+  },
+  "Lying down: Pain from lying on your back with your legs straight": {
+    "explanation": "A symptom related to 'Lying down' described as 'Pain from lying on your back with your legs straight'.",
+    "muscles": [
+      "Gluteus Maximus",
+      "Piriformis"
+    ],
+    "chapters": [
+      9,
+      11
+    ]
+  },
+  "Menstrual pain: Severe cramping": {
+    "explanation": "A symptom related to 'Menstrual pain' described as 'Severe cramping'.",
+    "muscles": [
+      "Rectus Abdominis",
+      "Paraspinals"
+    ],
+    "chapters": [
+      7,
+      6
+    ]
+  },
+  "Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area: Ankle or foot": {
+    "explanation": "A symptom related to 'Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area' described as 'Ankle or foot'.",
+    "muscles": [
+      "Piriformis",
+      "Soleus"
+    ],
+    "chapters": [
+      11,
+      14
+    ]
+  },
+  "Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area: Buttocks, hips, perineum": {
+    "explanation": "A symptom related to 'Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area' described as 'Buttocks, hips, perineum'.",
+    "muscles": [
+      "Gluteus Maximus",
+      "Piriformis"
+    ],
+    "chapters": [
+      9,
+      11
+    ]
+  },
+  "Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area: Groin, scrotum, or labia": {
+    "explanation": "A symptom related to 'Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area' described as 'Groin, scrotum, or labia'.",
+    "muscles": [
+      "Iliopsoas",
+      "Piriformis"
+    ],
+    "chapters": [
+      5,
+      11
+    ]
+  },
+  "Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area: Legs": {
+    "explanation": "A symptom related to 'Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area' described as 'Legs'.",
+    "muscles": [
+      "Piriformis"
+    ],
+    "chapters": [
+      11
+    ]
+  },
+  "Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area: Low back": {
+    "explanation": "A symptom related to 'Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area' described as 'Low back'.",
+    "muscles": [
+      "Piriformis"
+    ],
+    "chapters": [
+      11
+    ]
+  },
+  "Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area: Front of thighs": {
+    "explanation": "A symptom related to 'Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area' described as 'Front of thighs'.",
+    "muscles": [
+      "Iliopsoas"
+    ],
+    "chapters": [
+      5
+    ]
+  },
+  "Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area: Back of thighs": {
+    "explanation": "A symptom related to 'Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area' described as 'Back of thighs'.",
+    "muscles": [
+      "Piriformis",
+      "Hamstrings"
+    ],
+    "chapters": [
+      11,
+      13
+    ]
+  },
+  "Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area: Spinal region, skin over and around": {
+    "explanation": "A symptom related to 'Numbness, tingling, or heightened sensitivity (paresthesia or hyperesthesia), by area' described as 'Spinal region, skin over and around'.",
+    "muscles": [
+      "Paraspinals"
+    ],
+    "chapters": [
+      6
+    ]
+  },
+  "Radiculopathy and pseudo-radiculopathy: Numbness, tingling, or weakness in various muscles, thought to be due to nerve root problems but often caused by muscular dysfunction": {
+    "explanation": "A symptom related to 'Radiculopathy and pseudo-radiculopathy' described as 'Numbness, tingling, or weakness in various muscles, thought to be due to nerve root problems but often caused by muscular dysfunction'.",
+    "muscles": [
+      "Paraspinals",
+      "Quadratus Lumborum",
+      "Iliopsoas",
+      "Rectus Abdominis",
+      "Gluteal Muscles",
+      "Piriformis",
+      "Hamstrings",
+      "Soleus"
+    ],
+    "chapters": [
+      6,
+      8,
+      5,
+      7,
+      9,
+      11,
+      13,
+      14
+    ]
+  },
+  "Rectum: Pain": {
+    "explanation": "A symptom related to 'Rectum' described as 'Pain'.",
+    "muscles": [
+      "Pelvic Floor Muscles"
+    ],
+    "chapters": [
+      15
+    ]
+  },
+  "Sacroiliac joint: Pain in or around": {
+    "explanation": "A symptom related to 'Sacroiliac joint' described as 'Pain in or around'.",
+    "muscles": [
+      "Paraspinals",
+      "Gluteus Maximus",
+      "Gluteus Medius",
+      "Quadratus Lumborum",
+      "Rectus Abdominis",
+      "Piriformis",
+      "Soleus",
+      "Pelvic Floor Muscles"
+    ],
+    "chapters": [
+      6,
+      9,
+      10,
+      8,
+      7,
+      11,
+      14,
+      15
+    ]
+  },
+  "Sacroiliac joint: Stabbing pain in or around the joint, or in the lower buttocks, abdomen, hips, or groin": {
+    "explanation": "A symptom related to 'Sacroiliac joint' described as 'Stabbing pain in or around the joint, or in the lower buttocks, abdomen, hips, or groin'.",
+    "muscles": [
+      "Quadratus Lumborum"
+    ],
+    "chapters": [
+      8
+    ]
+  },
+  "Sciatica or pseudo-sciatica: Pain in the buttocks and down the side and back of the thigh or down the outside and back of the lower leg": {
+    "explanation": "A symptom related to 'Sciatica or pseudo-sciatica' described as 'Pain in the buttocks and down the side and back of the thigh or down the outside and back of the lower leg'.",
+    "muscles": [
+      "Gluteal Muscles",
+      "Hamstrings",
+      "Piriformis",
+      "Iliopsoas",
+      "Paraspinals",
+      "Quadratus Lumborum",
+      "Soleus"
+    ],
+    "chapters": [
+      9,
+      13,
+      11,
+      5,
+      6,
+      8,
+      14
+    ]
+  },
+  "Scrotum (including the testes): Pain": {
+    "explanation": "A symptom related to 'Scrotum (including the testes)' described as 'Pain'.",
+    "muscles": [
+      "Iliopsoas",
+      "Quadratus Lumborum",
+      "Piriformis"
+    ],
+    "chapters": [
+      5,
+      8,
+      11
+    ]
+  },
+  "Sexual dysfunction: Painful intercourse": {
+    "explanation": "A symptom related to 'Sexual dysfunction' described as 'Painful intercourse'.",
+    "muscles": [
+      "Piriformis",
+      "Pelvic Floor Muscles",
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      11,
+      15,
+      7
+    ]
+  },
+  "Sexual dysfunction: Impotence": {
+    "explanation": "A symptom related to 'Sexual dysfunction' described as 'Impotence'.",
+    "muscles": [
+      "Piriformis"
+    ],
+    "chapters": [
+      11
+    ]
+  },
+  "Sitting: Pain from prolonged sitting": {
+    "explanation": "A symptom related to 'Sitting' described as 'Pain from prolonged sitting'.",
+    "muscles": [
+      "Gluteus Maximus",
+      "Iliopsoas",
+      "Rectus Abdominis",
+      "Piriformis",
+      "Hamstrings",
+      "Quadratus Lumborum",
+      "Pelvic Floor Muscles"
+    ],
+    "chapters": [
+      9,
+      5,
+      7,
+      11,
+      13,
+      8,
+      15
+    ]
+  },
+  "Sitting: Pain when getting up from a sitting position": {
+    "explanation": "A symptom related to 'Sitting' described as 'Pain when getting up from a sitting position'.",
+    "muscles": [
+      "Iliopsoas",
+      "Paraspinals",
+      "Gluteus Maximus",
+      "Piriformis"
+    ],
+    "chapters": [
+      5,
+      6,
+      9,
+      11
+    ]
+  },
+  "Slouching: When seated, with back rounded forward": {
+    "explanation": "A symptom related to 'Slouching' described as 'When seated, with back rounded forward'.",
+    "muscles": [
+      "Rectus Abdominis",
+      "Paraspinals"
+    ],
+    "chapters": [
+      7,
+      6
+    ]
+  },
+  "Sneezing: Extreme pain when sneezing": {
+    "explanation": "A symptom related to 'Sneezing' described as 'Extreme pain when sneezing'.",
+    "muscles": [
+      "Quadratus Lumborum",
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      8,
+      7
+    ]
+  },
+  "Spine: Abnormal curvature (scoliosis and functional scoliosis)": {
+    "explanation": "A symptom related to 'Spine' described as 'Abnormal curvature (scoliosis and functional scoliosis)'.",
+    "muscles": [
+      "Quadratus Lumborum",
+      "Iliopsoas",
+      "Paraspinals",
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      8,
+      5,
+      6,
+      7
+    ]
+  },
+  "Spine: Deep aching pain on one or both sides of the spine": {
+    "explanation": "A symptom related to 'Spine' described as 'Deep aching pain on one or both sides of the spine'.",
+    "muscles": [
+      "Paraspinals"
+    ],
+    "chapters": [
+      6
+    ]
+  },
+  "Spine: Pain with any movement of the spine": {
+    "explanation": "A symptom related to 'Spine' described as 'Pain with any movement of the spine'.",
+    "muscles": [
+      "Paraspinals"
+    ],
+    "chapters": [
+      6
+    ]
+  },
+  "Spine: Severe 'bone pain' in any part of the spine": {
+    "explanation": "A symptom related to 'Spine' described as 'Severe 'bone pain' in any part of the spine'.",
+    "muscles": [
+      "Paraspinals"
+    ],
+    "chapters": [
+      6
+    ]
+  },
+  "Spine: Sharp pains along the spine": {
+    "explanation": "A symptom related to 'Spine' described as 'Sharp pains along the spine'.",
+    "muscles": [
+      "Paraspinals"
+    ],
+    "chapters": [
+      6
+    ]
+  },
+  "Squatting: Heels don’t touch floor when squatting": {
+    "explanation": "A symptom related to 'Squatting' described as 'Heels don’t touch floor when squatting'.",
+    "muscles": [
+      "Soleus"
+    ],
+    "chapters": [
+      14
+    ]
+  },
+  "Stairs: Back and buttocks pain when climbing stairs": {
+    "explanation": "A symptom related to 'Stairs' described as 'Back and buttocks pain when climbing stairs'.",
+    "muscles": [
+      "Iliopsoas",
+      "Quadratus Lumborum",
+      "Gluteus Maximus",
+      "Hamstrings",
+      "Paraspinals",
+      "Soleus"
+    ],
+    "chapters": [
+      5,
+      8,
+      9,
+      13,
+      6,
+      14
+    ]
+  },
+  "Stairs: Restricted range of motion while climbing stairs": {
+    "explanation": "A symptom related to 'Stairs' described as 'Restricted range of motion while climbing stairs'.",
+    "muscles": [
+      "Gluteus Maximus",
+      "Gluteus Minimus",
+      "Gluteus Medius",
+      "Iliopsoas"
+    ],
+    "chapters": [
+      9,
+      10,
+      10,
+      5
+    ]
+  },
+  "Standing: Heel pain while standing": {
+    "explanation": "A symptom related to 'Standing' described as 'Heel pain while standing'.",
+    "muscles": [
+      "Soleus"
+    ],
+    "chapters": [
+      14
+    ]
+  },
+  "Standing: Pain when standing": {
+    "explanation": "A symptom related to 'Standing' described as 'Pain when standing'.",
+    "muscles": [
+      "Quadratus Lumborum",
+      "Iliopsoas",
+      "Rectus Abdominis",
+      "Paraspinals",
+      "Piriformis",
+      "Soleus"
+    ],
+    "chapters": [
+      8,
+      5,
+      7,
+      6,
+      11,
+      14
+    ]
+  },
+  "Standing: Severe pain when standing upright": {
+    "explanation": "A symptom related to 'Standing' described as 'Severe pain when standing upright'.",
+    "muscles": [
+      "Quadratus Lumborum",
+      "Gluteus Minimus"
+    ],
+    "chapters": [
+      8,
+      10
+    ]
+  },
+  "Standing: Slouching while standing": {
+    "explanation": "A symptom related to 'Standing' described as 'Slouching while standing'.",
+    "muscles": [
+      "Rectus Abdominis",
+      "Iliopsoas",
+      "Paraspinals",
+      "Quadratus Lumborum",
+      "Hamstrings"
+    ],
+    "chapters": [
+      7,
+      5,
+      6,
+      8,
+      13
+    ]
+  },
+  "Standing: Difficulty standing on one leg": {
+    "explanation": "A symptom related to 'Standing' described as 'Difficulty standing on one leg'.",
+    "muscles": [
+      "Gluteus Medius",
+      "Gluteus Minimus",
+      "Quadratus Lumborum",
+      "Soleus"
+    ],
+    "chapters": [
+      10,
+      10,
+      8,
+      14
+    ]
+  },
+  "Standing: Always standing with feet turned out (lateral rotation at hip)": {
+    "explanation": "A symptom related to 'Standing' described as 'Always standing with feet turned out (lateral rotation at hip)'.",
+    "muscles": [
+      "Gluteal Muscles",
+      "Iliopsoas"
+    ],
+    "chapters": [
+      9,
+      10,
+      5
+    ]
+  },
+  "Swelling: Of the feet and ankles": {
+    "explanation": "A symptom related to 'Swelling' described as 'Of the feet and ankles'.",
+    "muscles": [
+      "Soleus"
+    ],
+    "chapters": [
+      14
+    ]
+  },
+  "Swimming: Low back pain while swimming": {
+    "explanation": "A symptom related to 'Swimming' described as 'Low back pain while swimming'.",
+    "muscles": [
+      "Paraspinals"
+    ],
+    "chapters": [
+      6
+    ]
+  },
+  "Swimming: Difficulty or weakness doing the flutter kick (hip extension)": {
+    "explanation": "A symptom related to 'Swimming' described as 'Difficulty or weakness doing the flutter kick (hip extension)'.",
+    "muscles": [
+      "Gluteus Maximus",
+      "Hamstrings",
+      "Paraspinals"
+    ],
+    "chapters": [
+      9,
+      13,
+      6
+    ]
+  },
+  "Tailbone (coccyx): Deep pain around the tailbone": {
+    "explanation": "A symptom related to 'Tailbone (coccyx)' described as 'Deep pain around the tailbone'.",
+    "muscles": [
+      "Gluteus Maximus",
+      "Pelvic Floor Muscles",
+      "Paraspinals"
+    ],
+    "chapters": [
+      9,
+      15,
+      6
+    ]
+  },
+  "Thighs: Pain, numbness, tingling, or heightened sensation in the front of the thigh": {
+    "explanation": "A symptom related to 'Thighs' described as 'Pain, numbness, tingling, or heightened sensation in the front of the thigh'.",
+    "muscles": [
+      "Iliopsoas"
+    ],
+    "chapters": [
+      5
+    ]
+  },
+  "Thighs: Pain, numbness, tingling, or heightened sensation in the back of the thighs": {
+    "explanation": "A symptom related to 'Thighs' described as 'Pain, numbness, tingling, or heightened sensation in the back of the thighs'.",
+    "muscles": [
+      "Hamstrings",
+      "Gluteus Minimus",
+      "Piriformis"
+    ],
+    "chapters": [
+      13,
+      10,
+      11
+    ]
+  },
+  "Thighs: Pain in the inner thighs": {
+    "explanation": "A symptom related to 'Thighs' described as 'Pain in the inner thighs'.",
+    "muscles": [
+      "Pelvic Floor Muscles"
+    ],
+    "chapters": [
+      15
+    ]
+  },
+  "Toes: Difficulty in touching the toes": {
+    "explanation": "A symptom related to 'Toes' described as 'Difficulty in touching the toes'.",
+    "muscles": [
+      "Hamstrings",
+      "Soleus",
+      "Gluteus Maximus",
+      "Paraspinals",
+      "Iliopsoas"
+    ],
+    "chapters": [
+      13,
+      14,
+      9,
+      6,
+      5
+    ]
+  },
+  "Toes: Difficulty pushing off the toes while walking or running": {
+    "explanation": "A symptom related to 'Toes' described as 'Difficulty pushing off the toes while walking or running'.",
+    "muscles": [
+      "Soleus",
+      "Gluteus Medius",
+      "Gluteus Minimus",
+      "Quadratus Lumborum"
+    ],
+    "chapters": [
+      14,
+      10,
+      10,
+      8
+    ]
+  },
+  "Torso, bending: Sharp pain upon bending forward and to the side that seems to come out of nowhere": {
+    "explanation": "A symptom related to 'Torso, bending' described as 'Sharp pain upon bending forward and to the side that seems to come out of nowhere'.",
+    "muscles": [
+      "Quadratus Lumborum",
+      "Paraspinals",
+      "Iliopsoas",
+      "Rectus Abdominis",
+      "Gluteus Maximus"
+    ],
+    "chapters": [
+      8,
+      6,
+      5,
+      7,
+      9
+    ]
+  },
+  "Torso, bending: Pain while arching backward": {
+    "explanation": "A symptom related to 'Torso, bending' described as 'Pain while arching backward'.",
+    "muscles": [
+      "Paraspinals",
+      "Quadratus Lumborum"
+    ],
+    "chapters": [
+      6,
+      8
+    ]
+  },
+  "Torso, bending: Pain while bending forward": {
+    "explanation": "A symptom related to 'Torso, bending' described as 'Pain while bending forward'.",
+    "muscles": [
+      "Paraspinals",
+      "Quadratus Lumborum",
+      "Iliopsoas",
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      6,
+      8,
+      5,
+      7
+    ]
+  },
+  "Torso, bending: Difficulty or pain bending or leaning to either side": {
+    "explanation": "A symptom related to 'Torso, bending' described as 'Difficulty or pain bending or leaning to either side'.",
+    "muscles": [
+      "Quadratus Lumborum",
+      "Paraspinals",
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      8,
+      6,
+      7
+    ]
+  },
+  "Urination: Frequent urination or occasional incontinence": {
+    "explanation": "A symptom related to 'Urination' described as 'Frequent urination or occasional incontinence'.",
+    "muscles": [
+      "Pelvic Floor Muscles",
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      15,
+      7
+    ]
+  },
+  "Urination: Bladder spasm": {
+    "explanation": "A symptom related to 'Urination' described as 'Bladder spasm'.",
+    "muscles": [
+      "Rectus Abdominis"
+    ],
+    "chapters": [
+      7
+    ]
+  },
+  "Vagina: Pain, intense burning": {
+    "explanation": "A symptom related to 'Vagina' described as 'Pain, intense burning'.",
+    "muscles": [
+      "Pelvic Floor Muscles"
+    ],
+    "chapters": [
+      15
+    ]
+  },
+  "Vagina: Deep soreness after intercourse": {
+    "explanation": "A symptom related to 'Vagina' described as 'Deep soreness after intercourse'.",
+    "muscles": [
+      "Pelvic Floor Muscles",
+      "Hamstrings"
+    ],
+    "chapters": [
+      15,
+      13
+    ]
+  },
+  "Vertebrae: Severe aching 'bone pain' in the spine": {
+    "explanation": "A symptom related to 'Vertebrae' described as 'Severe aching 'bone pain' in the spine'.",
+    "muscles": [
+      "Paraspinals (deep)",
+      "Rectus Abdominis",
+      "Iliopsoas"
+    ],
+    "chapters": [
+      6,
+      7,
+      5
+    ]
+  },
+  "Walking: Abnormal limping gait": {
+    "explanation": "A symptom related to 'Walking' described as 'Abnormal limping gait'.",
+    "muscles": [
+      "Gluteus Medius",
+      "Gluteus Minimus",
+      "Piriformis",
+      "Hamstrings",
+      "Soleus"
+    ],
+    "chapters": [
+      10,
+      10,
+      11,
+      13,
+      14
+    ]
+  },
+  "Walking: Unbearable pain when walking": {
+    "explanation": "A symptom related to 'Walking' described as 'Unbearable pain when walking'.",
+    "muscles": [
+      "Quadratus Lumborum",
+      "Soleus"
+    ],
+    "chapters": [
+      8,
+      14
+    ]
+  },
+  "Walking: Pain in general when walking": {
+    "explanation": "A symptom related to 'Walking' described as 'Pain in general when walking'.",
+    "muscles": [
+      "Gluteus Medius",
+      "Gluteus Minimus",
+      "Quadratus Lumborum",
+      "Pelvic Floor Muscles",
+      "Hamstrings",
+      "Soleus"
+    ],
+    "chapters": [
+      10,
+      10,
+      8,
+      15,
+      13,
+      14
+    ]
+  },
+  "Walking: Can't walk on tiptoes, or difficulty walking up or down hills or stairs": {
+    "explanation": "A symptom related to 'Walking' described as 'Can't walk on tiptoes, or difficulty walking up or down hills or stairs'.",
+    "muscles": [
+      "Soleus"
+    ],
+    "chapters": [
+      14
+    ]
+  },
+  "Walking: Back pain while walking uphill, especially with the torso flexed forward": {
+    "explanation": "A symptom related to 'Walking' described as 'Back pain while walking uphill, especially with the torso flexed forward'.",
+    "muscles": [
+      "Gluteus Maximus"
+    ],
+    "chapters": [
+      9
+    ]
+  },
+  "Walking: Difficulty shifting weight from side to side while walking": {
+    "explanation": "A symptom related to 'Walking' described as 'Difficulty shifting weight from side to side while walking'.",
+    "muscles": [
+      "Soleus",
+      "Gluteus Medius",
+      "Gluteus Minimus",
+      "Quadratus Lumborum"
+    ],
+    "chapters": [
+      14,
+      10,
+      10,
+      8
+    ]
+  },
+  "Walking: Shortened stride": {
+    "explanation": "A symptom related to 'Walking' described as 'Shortened stride'.",
+    "muscles": [
+      "Soleus",
+      "Hamstrings",
+      "Iliopsoas",
+      "Gluteus Medius",
+      "Gluteus Minimus"
+    ],
+    "chapters": [
+      14,
+      13,
+      5,
+      10,
+      10
+    ]
+  },
+  "Walking: Weakness in the hips when walking": {
+    "explanation": "A symptom related to 'Walking' described as 'Weakness in the hips when walking'.",
+    "muscles": [
+      "Gluteus Medius",
+      "Gluteus Minimus",
+      "Piriformis"
+    ],
+    "chapters": [
+      10,
+      10,
+      11
+    ]
+  },
+  "Walking: Buttocks pain when walking uphill": {
+    "explanation": "A symptom related to 'Walking' described as 'Buttocks pain when walking uphill'.",
+    "muscles": [
+      "Soleus"
+    ],
+    "chapters": [
+      14
+    ]
+  },
+  "Walking: Difficulty walking with knees bent": {
+    "explanation": "A symptom related to 'Walking' described as 'Difficulty walking with knees bent'.",
+    "muscles": [
+      "Soleus"
+    ],
+    "chapters": [
+      14
+    ]
+  },
+  "Walking: Heel pain when walking": {
+    "explanation": "A symptom related to 'Walking' described as 'Heel pain when walking'.",
+    "muscles": [
+      "Soleus"
+    ],
+    "chapters": [
+      14
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Iliopsoas": "images/iliopsoas.png",
+  "Longissimus thoracis": "images/longissimus_thoracis.png",
+  "Iliocostalis thoracis": "images/iliocostalis_thoracis.png",
+  "Iliocostalis lumborum": "images/iliocostalis_lumborum.png",
+  "Multifidi": "images/multifidi.png",
+  "Multifidi and rotatores": "images/multifidi_and_rotatores.png",
+  "Rectus Abdominis": "images/rectus_abdominis.png",
+  "Quadratus Lumborum": "images/quadratus_lumborum.png",
+  "Gluteus Maximus": "images/gluteus_maximus.png",
+  "Gluteus Medius": "images/gluteus_medius.png",
+  "Gluteus Minimus": "images/gluteus_minimus.png",
+  "Piriformis": "images/piriformis.png",
+  "Hamstrings": "images/hamstrings.png",
+  "Soleus": "images/soleus.png"
+}

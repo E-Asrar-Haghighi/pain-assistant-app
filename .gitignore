@@ -1,0 +1,5 @@
+# Ignore the Streamlit secrets file to keep your API key safe
+.streamlit/secrets.toml
+
+# Ignore Python's cache files
+__pycache__/
